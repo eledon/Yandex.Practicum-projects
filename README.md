@@ -1,5 +1,6 @@
 # Yandex.Practicum-projects
-### 1. <target="blank">telecom prepaid plan analysis</a>
+https://practicum.yandex.com/data-analyst/
+### 1. Telecom prepaid plan analysis</a>
 
 **Objective:**
 Provide the commercial department of a telecom company with insights from analytics to adjust the advertizing budget.
