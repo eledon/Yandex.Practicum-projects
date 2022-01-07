@@ -21,36 +21,63 @@ Apply Statistical Data Analysis to a real-life analytical case study.
 
 ### 4. Data Source
 **Dataframe users (information about subscribers):**
+
 user_id — unique user identificator
+
 first_name — user name
+
 last_name — user last name
+
 age — user age
 reg_date — registration date (day, month, year)
+
 churn_date — the date when the user stopped using the services (if there is Nan value, the subscriber was still using the services)
+
 city — city where the user lives
+
 tarif — plan name
+
 **Dataframe calls (информация о звонках):**
+
 id — unique call id
+
 call_date — date of the call
+
 duration — call duration (minutes)
+
 user_id — id of the user who made the call 
+
 **Dataframe messages (information about text messages):** 
 id — unique message id
+
 message_date — data when the message was sent
+
 user_id — id of the user who sent the message
+
 **Dataframe internet (information about internet sessions):**
 id — unique session id
+
 mb_used — Mb used (for the session)
+
 session_date — data of the internet session
+
 user_id — unique user identification number
+
 **Dataframe tariffs:**
 tariff_name 
+
 rub_monthly_fee — monthly payment in rubles
+
 minutes_included — number of minutes included in the plan package 
+
 messages_included — number of messages included in the plan package 
+
 mb_per_month_included — internet traffic included in the plan package 
+
 rub_per_minute — extra minute fee 
+
 rub_per_message — etxra text message fee
+
 rub_per_gb — extra internet traffic fee (per GB)<hr>
 
 
