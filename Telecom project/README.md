@@ -20,7 +20,7 @@ Apply Statistical Data Analysis to a real-life analytical case study.
 <hr>
 
 ### 4. Data Source
-**Dataframe users (information about subscribers):**
+**Dataframe "users" (information about subscribers):**
 
 user_id — unique user identificator
 
@@ -37,7 +37,7 @@ city — city where the user lives
 
 tarif — plan name
 
-**Dataframe calls (информация о звонках):**
+**Dataframe "calls" (информация о звонках):**
 
 id — unique call id
 
@@ -47,14 +47,14 @@ duration — call duration (minutes)
 
 user_id — id of the user who made the call 
 
-**Dataframe messages (information about text messages):** 
+**Dataframe "messages" (information about text messages):** 
 id — unique message id
 
 message_date — data when the message was sent
 
 user_id — id of the user who sent the message
 
-**Dataframe internet (information about internet sessions):**
+**Dataframe "internet" (information about internet sessions):**
 id — unique session id
 
 mb_used — Mb used (for the session)
@@ -63,7 +63,7 @@ session_date — data of the internet session
 
 user_id — unique user identification number
 
-**Dataframe tariffs:**
+**Dataframe "tariffs":**
 tariff_name 
 
 rub_monthly_fee — monthly payment in rubles
