@@ -1,6 +1,6 @@
 # Yandex.Practicum-projects
 https://practicum.yandex.com/data-analyst/
-### 1. Telecom prepaid plan analysis</a>
+### 1. <a href="https://github.com/eledon/Yandex.Practicum-projects/tree/main/Telecom%20project" target="blank">Telecom prepaid plan analytics</a>
 
 **Objective:**
 Provide the commercial department of a telecom company with insights from analytics to adjust the advertizing budget.
@@ -9,7 +9,7 @@ Provide the commercial department of a telecom company with insights from analyt
 `pandas, matplotlib.pyplot, math, numpy, scipy`
 <hr>
 
-### 2. [A/B analysis] (https://github.com/eledon/Yandex.Practicum-projects/tree/main/ABtesting 'hover display') 
+### 2.  <a href="https://github.com/eledon/Yandex.Practicum-projects/tree/main/ABtesting" target="blank">A/B testing</a>
 
 **Objective:**
  Support decision making for an e-commerce company by prioritizing hypotheses and analyzing the results of an A/B test.
