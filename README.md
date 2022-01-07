@@ -8,7 +8,8 @@ Provide the commercial department of a telecom company with insights from analyt
 **Tools:**
 `pandas, matplotlib.pyplot, math, numpy, scipy`
 <hr>
-### 2. A/B analysis</a>
+
+### 2. [A/B analysis] (https://github.com/eledon/Yandex.Practicum-projects/tree/main/ABtesting 'hover display') 
 
 **Objective:**
  Support decision making for an e-commerce company by prioritizing hypotheses and analyzing the results of an A/B test.
@@ -16,6 +17,7 @@ Provide the commercial department of a telecom company with insights from analyt
 **Tools:**
 `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
 <hr>
+
 ### 3. Online gamestore analytics</a>
 
 **Objective:**
