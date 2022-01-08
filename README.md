@@ -18,7 +18,7 @@ Provide the commercial department of a telecom company with insights from analyt
 `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
 <hr>
 
-### 3. Online gamestore analytics</a>
+### 3.  <a href="https://github.com/eledon/Yandex.Practicum-projects/tree/main/Videogames%20market%20research" target="blank">Online gamestore analytics</a>
 
 **Objective:**
 identify patterns that determine whether a game succeeds or not. This will allow the management to spot potential big winners and plan advertising campaigns.
