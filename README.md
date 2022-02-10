@@ -26,3 +26,15 @@ identify patterns that determine whether a game succeeds or not. This will allow
 **Tools:**
 `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
 <hr>
+
+### 4.  <a href="https://github.com/eledon/Yandex.Practicum-projects/tree/main/Videogames%20market%20research" targ
+           Yandex.Afisha is a ticket sales service based in Russia with operations in many cities across the country. 
+Cinema, theaters, concerts, exhibitions - everyone can choose how to spend their time. Yandex.Afisha marketing department need to decide on what traffic sources expenses should be cut. They want to reallocate the budget to more profitable traffic sources.et="blank">Online gamestore analytics</a>
+
+**Objective:**
+Yandex.Afisha is a ticket sales service based in Russia with operations in many cities across the country. 
+Cinema, theaters, concerts, exhibitions - everyone can choose how to spend their time. Yandex.Afisha marketing department need to decide on what traffic sources expenses should be cut. They want to reallocate the budget to more profitable traffic sources. Topics covered: cohort analysis, LTV, CAC, retention rate.
+
+**Tools:**
+`pandas, matplotlib.pyplot, seaborn`
+<hr>
